@@ -69,19 +69,19 @@ CREATE TABLE `feedback` (
 --
 
 INSERT INTO `feedback` (`fid`, `name`, `comment`, `sid`) VALUES
-(2, 'Rudra Newaz', 'This is the regular user commenting once again\r\n\r\n', NULL),
+(2, 'Rudra Newaz', 'This is the boss comments once again\r\n\r\n', NULL),
 (3, 'Shuvo', 'I am new here!\r\n\r\n', NULL),
 (5, 'Bayazid Talukder', 'Hello! I am new here. Please \r\n', NULL),
-(6, 'Evan', 'This website should be more updated', NULL),
-(7, 'Sarah', 'Nice website and I\'m very happy', NULL),
-(11, 'Saikat Hossain', 'Thanks for uploading data structure book at engineering catagory', NULL),
-(12, 'Urmila', 'Hey,whats up', NULL),
-(13, 'Shuvo', 'I am a new user', NULL),
-(14, 'Evan', 'I am a book reader', NULL),
-(15, 'Aniket', 'I am also new here.Can you please tell us what are the facilities here?', NULL),
+(6, 'Evan', 'This website is very rude. I have found many adult content here.This website is very rude. I have found many adult content here.This website is very rude. I have found many adult content here.This website is very rude. I have found many adult content here.This website is very rude. I have found many adult content here.This website is very rude. I have found many adult content here.This website is very rude. I have found many adult content here.This website is very rude. I have found many adult c', NULL),
+(7, 'Sarah', 'Today is very cool and I\'m very hot', NULL),
+(11, 'Sarah Hossain', 'Nothing to say', NULL),
+(12, 'huaweo', 'is bad', NULL),
+(13, 'Shuvoda', 'I am a lady killer', NULL),
+(14, 'Evan', 'I am a fuck boy', NULL),
+(15, 'Aniket', 'I am cesra', NULL),
 (16, '', '', NULL),
 (17, '', '', NULL),
-(18, 'John', 'This website is so much useful', NULL);
+(18, 'Nam Nai', 'Ami ki kore boli tare', NULL);
 
 -- --------------------------------------------------------
 
@@ -123,13 +123,13 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`uid`, `uname`, `upass`, `address`, `mno`) VALUES
-('001', 'zahid', 'farah', 'banani', '01677'),
+('001', 'zahid', 'yead', 'bashundhara', '01677'),
 ('gg', 'gfgf', 'gfg', 'gfgf', 'gfg'),
-('11', 'Urmi', 'Urmila', 'Uttara', '089786783'),
+('11', 'Shuvoda', 'sexysexy', 'Uttara', '089786783'),
 ('', '', '', '', ''),
 ('224', 'ss', '1234', 'ffdg', '1234'),
 ('1722161', 'rn1997', '12345', 'mirpur', '01627737789'),
-('17221616', 'aniket', '12345', 'Bashundara', '017388787878');
+('17221616', 'rudra', '12345', 'Bashundara', '017388787878');
 
 --
 -- Indexes for dumped tables
